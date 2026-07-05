@@ -7,7 +7,7 @@
 - Matplotlib
 - Seaborn
 
-2)Project Overview
+Project Overview
 This project analyzes employee data using Python and MySQL.
 
 3) Features
